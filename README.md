@@ -1,7 +1,7 @@
 ## Hello I'm Yannick 👋
 
 ---
-
+- 🧑‍🎓 I'm Student in  @supdevinci
 - 🔭 I'm currently working on Web Projects.
 - 🌱 I want to learn more about Cybersecurity and Networking.
 - 📫 How to reach me: yannick.thomas2007@gmail.com
