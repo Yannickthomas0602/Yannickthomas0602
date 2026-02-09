@@ -3,13 +3,14 @@
 ---
 
 - 🔭 I'm currently working on Web Projects.
-- 🌱 I want to learn more in Cybersecurity and Networking.
+- 🌱 I want to learn more about Cybersecurity and Networking.
 - 📫 How to reach me: yannick.thomas2007@gmail.com
 
 #### My LinkedIn :
 **www.linkedin.com/in/yannick-thomas-3627133a0**
 
- 
+---
+
 ### 💻 Tech Stack :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
