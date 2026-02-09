@@ -7,7 +7,7 @@
 - 📫 How to reach me: yannick.thomas2007@gmail.com
 
 #### My LinkedIn :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yannick-thomas-3627133a0)
+**www.linkedin.com/in/yannick-thomas-3627133a0**
 
  
 ### 💻 Tech Stack :
